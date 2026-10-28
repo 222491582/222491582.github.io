@@ -183,8 +183,7 @@ The Product Backlog is a prioritized list of all required work, features, and im
 ![Product Backlog Part 3](Product%20backlog%203.png)
 ![Product Backlog Part 4](Product%20backlog%204.png)
 
-**Reflection on Product Backlog:**
-> *"We used the Product Backlog as our single source of truth for all potential features. By prioritizing tasks (such as High for Registration and Low for Admin), we ensured that the most critical features for the parents and learners were completed first. Breaking down large tasks into smaller cards made it easy to estimate our workload."*
+
 
 ---
 
@@ -286,8 +285,6 @@ In line with Agile methodology, our requirements are captured as User Stories. E
     *   [x] Build a backend view to display registered data.
     *   [x] Add an export-to-Excel feature.
 
-**Reflection on User Stories:**
-> "In our Agile process, we wrote User Stories using the standard 'As a... I want... So that...' format to ensure the website was built from the perspective of the Gugulethu community (Parents and Learners). We assigned Story Points to each story based on complexity. Because we are a 3-person team, we used these points during Sprint Planning to ensure we didn't pull too many tasks from the Product Backlog into our Sprint Backlog. High-priority stories (like Registration and Resources) were tackled first, while the Admin dashboard was deprioritized to ensure the core parent/learner experience was completed."
 
 ---
 
@@ -444,31 +441,44 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ## Agile Project Reflections
 
 ### 1. Reflection on the Agile Team Charter
-**Situation:** At the start of the iGugulam project, our team needed to establish a clear way of working together to ensure we met our deadlines and produced a high-quality website.
-**Task:** My task was to collaborate with my team to create an Agile Team Charter that defined our purpose, roles, and communication methods.
-**Action:** We held a planning meeting where we discussed our strengths and assigned specific roles (Project Manager, Lead Researcher, Lead Developer). We agreed on core values like "Community-First" and "Transparency," and set up a communication plan using WhatsApp for daily check-ins and Trello for task tracking.
+
+**Situation:** At the start of the iGugulam project, our team needed to establish a clear way of working together to ensure we met our deadlines and produced a high-quality website.  
+**Task:** My task was to collaborate with my team to create an Agile Team Charter that defined our purpose, roles, and communication methods.  
+**Action:** We held a planning meeting where we discussed our strengths and assigned specific roles (Project Manager, Lead Researcher, Lead Developer). We agreed on core values like "Community-First" and "Transparency," and set up a communication plan using WhatsApp for daily check-ins and Trello for task tracking.  
 **Result:** The charter acted as a social contract. It reduced friction because everyone knew exactly what they were responsible for. When disagreements arose (like the branding colors), we referred back to our charter's values of collaboration and voted as a team. This taught me that clear, upfront planning is essential for team alignment.
 
+---
+
 ### 2. Reflection on User Stories and Tasks
-**Situation:** We needed to translate the community's needs (from our survey) into actionable technical requirements for our 3-person development team.
-**Task:** My task was to write Agile User Stories and break them down into smaller, manageable tasks.
-**Action:** I wrote stories using the "As a... I want... So that..." format, focusing on Parents, Learners, and Admins. We then assigned Story Points based on complexity and broke each story down into specific tasks (e.g., "Design UI," "Write HTML/CSS," "Connect Database").
+
+**Situation:** We needed to translate the community's needs (from our survey) into actionable technical requirements for our 3-person development team.  
+**Task:** My task was to write Agile User Stories and break them down into smaller, manageable tasks.  
+**Action:** I wrote stories using the "As a... I want... So that..." format, focusing on Parents, Learners, and Admins. We then assigned Story Points based on complexity and broke each story down into specific tasks (e.g., "Design UI," "Write HTML/CSS," "Connect Database").  
 **Result:** This process ensured we built the website from the user's perspective, not just what was easy to code. By breaking the stories into tasks, we could accurately estimate our workload and avoid overcommitting during our Sprint Planning. It taught me how to bridge the gap between user requirements and technical execution.
 
+---
+
 ### 3. Reflection on the Product Backlog
-**Situation:** We had a massive list of features and tasks that needed to be completed for the website, and it was overwhelming to look at as a whole.
-**Task:** My task was to create and manage a prioritized Product Backlog in Trello.
-**Action:** I organized all potential work into a Trello board, prioritizing High-impact features (like Learner Registration and the Homework Section) at the top, and Low-impact features (like the Admin Dashboard) at the bottom.
+
+**Situation:** We had a massive list of features and tasks that needed to be completed for the website, and it was overwhelming to look at as a whole.  
+**Task:** My task was to create and manage a prioritized Product Backlog in Trello.  
+**Action:** I organized all potential work into a Trello board, prioritizing High-impact features (like Learner Registration and the Homework Section) at the top, and Low-impact features (like the Admin Dashboard) at the bottom.  
 **Result:** The Product Backlog became our single source of truth. It allowed us to focus on the most critical features first, ensuring that if we ran out of time, the core experience for parents and learners was fully functional. This taught me the importance of prioritization and delivering value incrementally.
 
+---
+
 ### 4. Reflection on the Sprint Backlog
-**Situation:** We needed a way to manage our work in short, focused bursts (Sprints) to ensure steady progress and continuous delivery.
-**Task:** My task was to pull specific tasks from the Product Backlog into Sprint Backlogs.
-**Action:** During Sprint Planning, we selected a manageable number of tasks based on our capacity as a 3-person team. We tracked these tasks on Trello, moving them from "To-Do" to "In Progress" to "Done." We completed 6 Sprints, progressing logically from Research (Sprint 1 & 2) to Design (Sprint 3 & 4) to Development (Sprint 6).
+
+**Situation:** We needed a way to manage our work in short, focused bursts (Sprints) to ensure steady progress and continuous delivery.  
+**Task:** My task was to pull specific tasks from the Product Backlog into Sprint Backlogs.  
+**Action:** During Sprint Planning, we selected a manageable number of tasks based on our capacity as a 3-person team. We tracked these tasks on Trello, moving them from "To-Do" to "In Progress" to "Done." We completed 6 Sprints, progressing logically from Research (Sprint 1 & 2) to Design (Sprint 3 & 4) to Development (Sprint 6).  
 **Result:** The Sprint Backlog kept us focused and prevented scope creep. It allowed us to deliver working parts of the website quickly. This taught me that Agile is about adapting to change and focusing on short-term, achievable goals to complete a large project.
 
+---
+
 ### 5. Reflection on the Agile Logbook
-**Situation:** As a team, we needed a structured way to track our daily progress, identify blockers, and reflect on our process.
-**Task:** My task was to maintain the Agile Logbook, recording daily stand-ups and weekly retrospectives.
-**Action:** I documented what we completed, what we planned to do next, and any impediments we faced (like database connection errors or tricky CSS layouts). We also used a "Walkthrough" section to evaluate our flow of work each week.
+
+**Situation:** As a team, we needed a structured way to track our daily progress, identify blockers, and reflect on our process.  
+**Task:** My task was to maintain the Agile Logbook, recording daily stand-ups and weekly retrospectives.  
+**Action:** I documented what we completed, what we planned to do next, and any impediments we faced (like database connection errors or tricky CSS layouts). We also used a "Walkthrough" section to evaluate our flow of work each week.  
 **Result:** The Agile Logbook was crucial for accountability. It highlighted bottlenecks early (e.g., getting enough survey responses), allowing us to adjust our strategy. It also served as a valuable record of our development process, proving that we applied Agile principles continuously, not just at the end of the project.
