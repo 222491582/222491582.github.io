@@ -290,10 +290,10 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 
 ## Agile Logbook
 
-
 ### Week 1 (14 July – 17 July)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Research community problem* | *Conduct a survey* | *Define project idea* |
@@ -301,12 +301,14 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 | *Research alternatives* | *Research pricing* | |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finish collecting and analyzing the community survey data so that we can confidently define the community problem and identify our target users.
 2.  **Is anyone working on anything that is not on the board?** No, all tasks for this week (Sprint 1 and Sprint 2) were tracked directly on our Trello board.
 3.  **What do we need to finish as a team?** We need to finalize our research on alternative solutions and pricing so that we have all the necessary data to start planning the website requirements in Week 2.
 4.  **Are there any bottlenecks or blockers to the flow of work?** Getting enough responses for the community survey took a bit longer than expected, but we pushed it out to community groups and managed to get 27 responses.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (14 Jul)** | Set up Trello board, defined project idea, identified community. | Research the community problem and identify target users. | None. |
@@ -319,6 +321,7 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ### Week 2 (21 July – 24 July)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Create website user stories* | *Gather website requirements* | *Define website purpose* |
@@ -326,12 +329,14 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 | *Design website UI* | | *Design website branding* |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finalize the website branding so we can start translating the requirements into visual wireframes and user stories for Sprint 4.
 2.  **Is anyone working on anything that is not on the board?** No. All tasks for Week 2 (Sprint 3) are tracked on the Trello board. 
 3.  **What do we need to finish as a team?** We need to complete the website branding design and ensure our requirements list is finalized so the developers know exactly what to code.
 4.  **Are there any bottlenecks or blockers to the flow of work?** We had a slight disagreement on the branding color scheme, but we resolved it by having a team vote and finalizing the design.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (21 Jul)** | Reviewed research from Sprint 1 and 2, prepared to start Sprint 3. | Define website purpose and gather requirements. | None. |
@@ -344,6 +349,7 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ### Week 3 (28 July – 31 July)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Business model canvas* | *Create website user stories* | *Create website wireframes* |
@@ -351,12 +357,14 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 | *Frontend development* | | |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finish the Website UI design and finalize the User Stories so that we can move into the development phase (Sprint 5 & 6).
 2.  **Is anyone working on anything that is not on the board?** No. All tasks are tracked in Sprint 4 on Trello.
 3.  **What do we need to finish as a team?** We need to ensure the User Stories are completely written with Acceptance Criteria, and that the UI design is approved by the whole team.
 4.  **Are there any bottlenecks or blockers to the flow of work?** The Homework section layout was tricky to design, but we overcame it by simplifying the interface to make it more user-friendly for the learners.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (28 Jul)** | Completed Sprint 3 and started Sprint 4 by creating initial user stories. | Design the website wireframes for Home and Registration pages. | None. |
@@ -369,18 +377,21 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ### Week 4 (4 Aug – 7 Aug)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Business model canvas* | *Create website user stories* | *Design website UI* |
 | *Design solution architecture* | *Frontend development* | |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finalize the remaining User Stories and move into the planning phase for Sprint 5, focusing on the Business Model Canvas and Solution Architecture.
 2.  **Is anyone working on anything that is not on the board?** No, all design and documentation tasks are tracked in Trello.
 3.  **What do we need to finish as a team?** We must finish the User Stories with Acceptance Criteria so the developers have clear instructions for when development begins in Sprint 6.
 4.  **Are there any bottlenecks or blockers to the flow of work?** We are slightly behind on the User Stories, but we are assigning more time to them to ensure they are perfect before coding starts.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (4 Aug)** | Finalized the Website UI design based on the wireframes. | Work on completing the User Stories (currently 0/6 in progress). | Writing Acceptance Criteria takes time, but it's necessary. |
@@ -393,18 +404,21 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ### Week 5 (23 Sept – 27 Sept)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Test registration* | *Backend Development* | *Frontend Development* |
 | | | *Design Solution Architecture* |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finish the frontend HTML/CSS layout so that the backend developer can start connecting the forms to the database.
 2.  **Is anyone working on anything that is not on the board?** No. All tasks are actively tracked in Sprint 6 on our Trello board.
 3.  **What do we need to finish as a team?** We need to complete the Frontend Development (specifically the Registration form and Homework section) by the end of the week.
 4.  **Are there any bottlenecks or blockers to the flow of work?** Mobile responsiveness (CSS media queries) took a bit longer than expected, but we resolved it as a team.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (23 Sep)** | Set up local dev environment and started HTML/CSS structure. | Build frontend layout for Registration form. | None. |
@@ -417,18 +431,21 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 ### Week 6 (7 Oct – 11 Oct)
 
 **Taskboard**
+
 | Product Backlog | In Progress | Completed |
 | :--- | :--- | :--- |
 | *Final GitHub Submission* | *Test registration* | *Frontend Development* |
 | | | *Backend Development* |
 
 **Walkthrough**
+
 1.  **What do we need to do to advance this piece of work?** We need to finalize the connection between the frontend forms and the backend database, run the final QA testing on the registration flow, and ensure the GitHub portfolio is fully updated.
 2.  **Is anyone working on anything that is not on the board?** No. Everything, including final bug fixes and documentation, is being tracked on our Trello board.
 3.  **What do we need to finish as a team?** We need to complete the final end-to-end testing of the website and ensure all Agile documentation is ready for submission.
 4.  **Are there any bottlenecks or blockers to the flow of work?** We encountered a minor database connection error, but because we all took on coding roles, we were able to troubleshoot and resolve it quickly.
 
 **Daily Standups**
+
 | Date | What did I complete since the last standup? | What am I planning to complete? | What are my impediments? |
 | :--- | :--- | :--- | :--- |
 | **Tue (7 Oct)** | Finished core Java/MySQL backend development. | Connect Registration form to database and test data flow. | Minor error with database connection string. |
