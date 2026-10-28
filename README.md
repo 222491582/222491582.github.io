@@ -293,12 +293,6 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 
 ## Agile Logbook
 
-### Trello Board Overview: Research & Planning (Sprints 1-3)
-![Trello Sprints 1-3](Sprint%201.png)
-
-### Trello Board Overview: Design & Development (Sprints 4-6)
-![Trello Sprints 4-6](Sprint%204.png)
-
 ---
 
 ### Week 1 (14 July – 17 July)
