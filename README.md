@@ -293,7 +293,6 @@ In line with Agile methodology, our requirements are captured as User Stories. E
 
 ## Agile Logbook
 
----
 
 ### Week 1 (14 July – 17 July)
 
